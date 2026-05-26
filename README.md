@@ -61,8 +61,7 @@ Interactive Power BI dashboards providing customer segmentation, churn predictio
 The analysis highlights the major factors contributing to customer churn. Contract type, payment method, tenure, and service usage significantly influence customer retention. Businesses can use these insights to reduce churn and improve customer satisfaction.
 
 ## Dashboard Preview
-
-
+https://github.com/priyapatel96140/Churn-rate-Analysis-power-bi-project/blob/main/telecom-customer-churn-analysis.png
 
 ## Author
 Priya Patel
